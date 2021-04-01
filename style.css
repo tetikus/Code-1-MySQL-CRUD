@@ -1,0 +1,41 @@
+.formBody {
+  margin: 1em;
+  padding: 0.5em;
+}
+
+.main-kotak {
+  border: black;
+  padding: 2em;
+  text-align: center;
+  text-decoration: none;
+}
+
+.butang {
+  background-color: cornflowerblue;
+  color: black;
+  list-style: none;
+  padding: 0.5em;
+  border-radius: 0.5em;
+  font-weight: bold;
+  margin: 0.2em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.data-content {
+  margin: 0.2em;
+  padding: 1em;
+  border: black;
+}
+th {
+  font-weight: bolder;
+}
+label {
+  font-weight: bold;
+  margin: 0.2em;
+}
+h2 {
+  text-align: center;
+}
